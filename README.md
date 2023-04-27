@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)](https://prathambhardwaj.netlify.app/)
+[![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)](https://prathambhardwaj.netlify.app/)
 <h1 align="center">Hi 👋, I'm Pratham Bhardwaj</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.wpmaintain.co.uk/wp-content/uploads/2020/09/823003_WordPressGraphics_1_040920.png">
