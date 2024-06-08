@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pratham_0210" target="blank"><img src="https://img.shields.io/twitter/follow/pratham_0210?logo=twitter&style=for-the-badge" alt="pratham_0210" /></a> </p>
 
-- 🔭 I’m currently working on ** Mern Book Store App**
+- 🔭 I’m currently working on **Mern Book Store App**
 
 - 🌱 I’m currently learning **Mern Stack**
 
